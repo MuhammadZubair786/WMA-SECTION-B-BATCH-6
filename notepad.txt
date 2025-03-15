@@ -1,0 +1,52 @@
+index.html=>
+shift+1:!=>
+tag =<>=>angle bracket
+
+pair tag=> open or close
+unpair tag=>selfclosing
+
+
+<opentag>
+</closetag>
+
+block line=>get 100% width(h1 to h6)(p)(pre)
+inline=>get text width(b)
+
+p=>white space remove=>
+pre =>white space=>
+
+hr=>(line)
+br
+pre
+p
+
+html editior
+
+student@1234
+
+//
+
+
+
+gtihu
+firebase
+netlify
+vercel
+
+tag =>
+tag name
+tag attrbuite
+tag attrbuite value
+
+
+
+math:
+     math jhdh dsghdgs dsgdgs dshgdhsd sgdhsgdhgsd
+
+
+
+
+
+
+
+
