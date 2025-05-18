@@ -1,0 +1,119 @@
+/* @font-face {
+    font-family: "SMIT";
+    src: url(./assets/fonts/Playwrite_DK_Loopet/PlaywriteDKLoopet-VariableFont_wght.ttf);
+} */
+ @font-face {
+    font-family: "MEMONSOCIETY";
+    src: url(./assets/fonts/Rubik_Wet_Paint/RubikWetPaint-Regular.ttf);
+ }
+ @font-face {
+    font-family: "newstyle";
+    src: url(./assets/fonts/Exile/Exile-Regular.ttf);
+ }
+/* 
+*{
+   
+background-color: red;
+}
+
+h1,h2,h3{
+    background-color: pink;
+
+}
+h1.text{
+    background-color: rgb(124, 0, 128)
+}
+
+#test{
+    background-color: yellow;
+
+} */
+/* li>a{  */
+    /* //direct child */
+    /* /background-color: greenyellow; */
+/* } */
+
+/* li>a{
+    background-color: aqua;
+} */
+
+/* ol~a{
+    background-color: orange;
+} */
+
+/* h1+.test1{
+    background-color: red;
+} */
+
+/* li a{
+    background-color: red;
+} */
+ /* h1{ */
+    /* background-color: red; */
+    /* color: rgba(0, 0, 0, 0.3); */
+    /* opacity: 0.2; */
+    /* 0 or 1 */
+    /* background-color: #625106; */
+   /* color: hsla(300, 100%, 20%,0.5);
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+   
+ }
+ H5{
+    font-family: "Ga Maamli", sans-serif;
+ }
+ h6{
+   font-family: "Tagesschrift", system-ui;
+ }
+ p{
+    font-family: "SMIT";
+ }
+  */
+  h1{
+    font-family:"newstyle";
+    text-align: center;
+   
+
+  }
+
+  p{
+    /* font-family: "MEMONSOCIETy"; */
+    /* font-size: 100px; */
+    /* font-size: 16px;
+    font-weight: lighter;
+    font-style:italic; */
+    /* text-transform:capitalize;
+    text-decoration: line-through ;
+    text-decoration: underline;
+    line-height: -50px;
+    /* letter-spacing: 20px; */
+    /* word-spacing: 20px;
+    text-align: left;
+    width: 600px;  */
+    /* text-indent:60px; */
+    /* text-indent: 100px; */
+    text-shadow: 10px 0px 5px rgb(4, 82, 86);
+
+    /* font-weight: ; */
+      /* font-family: "Playpen Sans Thai", cursive; */
+     /* font-family: "Wavefont", system-ui; */
+      /* font-family: "Exile", system-ui; */
+   /* font-family: "Poppins", sans-serif; */
+  }
+
+  p::first-letter{
+    color: yellowgreen;
+    font-size: 100px;
+
+  }
+  p::first-line{
+    color: brown;
+    font-size: 25px;
+  }
+  a{
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: red;
+    background-color: aqua;
+  }
