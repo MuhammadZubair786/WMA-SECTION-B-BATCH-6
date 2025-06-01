@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0px;
     padding: 0px;
 }
@@ -39,3 +39,45 @@ img{
     border-radius: 20px;
     height: 200px;
 }
+li{
+    display: inline-block;
+} */
+ /* div{
+    height: 300px;
+    width: 300px;
+    margin: 20px;
+    background-color: red;
+    box-shadow: 100px 10px 10px inset yellow;
+ } */
+  /* ol{ */
+    /* list-style-position: inside; */
+    /* list-style-image: url("./star.png");
+    list-style-type: decimal-leading-zero; */
+    /* list-style:  url("star2.png") circle inside; */
+   
+    /* list-style-typ:; */
+  /* } */
+
+  table{
+
+    border: 1px dashed red;
+    border-radius: 10px;
+    /* width: 50%; */
+    width: fit-content;
+    height: 400px;
+    margin: auto;
+    empty-cells: hide;
+    border-spacing: 20px;
+    border-collapse: separate;
+  
+    /* padding: 20px; */
+  }
+
+  td{
+    border: 1px solid red;
+     /* border-radius: 100px; */
+    color: brown;
+    padding: 20px;
+    width: fit-content;
+      
+  }
