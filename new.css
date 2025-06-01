@@ -1,0 +1,75 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+p{
+    /* background-color: rgb(0, 255, 55);
+    padding: 20px; */
+    /* margin: 10px; */
+    /* margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 5px; */
+    /* margin: 100px 140px; */
+    /* trbl */
+    /* margin: 30px 20px 30px 50px; */
+    /* padding: 100px; */
+    /* padding-top: 10px 20px; */
+    /* padding: 10px 30px 100px 30px; */
+    /* border: width style color */
+
+    /* dashed,solid,double,dotted */
+
+    /* border: 20px double red; */
+    /* border */
+    border-top: 2px solid red;
+    border-bottom: 3px dotted yellow;
+    border-left: 10px double orange;
+    border-right: 3px dashed palevioletred;
+    padding: 20px;
+    margin: 20px;
+}
+img{
+    margin: 70px;
+    /* padding: 20px; */
+     border-top: 2px solid red;
+    border-bottom: 3px dotted yellow;
+    border-left: 10px double orange;
+    /* border: 1px solid red; */
+    border-right: 3px dashed palevioletred;
+    /* box-shadow: ltor(+)  rtol(-) t to b(+)  b to to(-) blur color */
+    box-shadow: 20px 20px 600px rgb(20, 84, 3);
+    /* borer-radius : all side */
+    /* full circle : 100% */
+   /* border-radius: 0%; */
+   /* tleft,tright,bleft,bright */
+   border-radius: 1000px;
+   /* border-top-left-radius: ; */
+   height: 300px;
+   width: 300px;
+
+
+}
+h1{
+    /* margin: 40px; */
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    padding: 40px;
+}
+
+div{
+    width: 50%;
+    text-align: center;
+    margin:  20px auto;
+    padding: 20px;
+   /* border-image: url("https://gallery.yopriceville.com/downloadfullsize/send/24907")  11 11 11 11 round; */
+    /* border: 1px solid gree; */
+    /* border-width: 1px solid; */
+   /* border-image: url("./assets/image/border-diamonds.png") 30; */
+       /* border-image: url("./assets/image/border-diamonds.png") 40 / 6px  round; */
+    border-image: url('./assets/image/decorative-border_1048-11718-removebg-preview.png') 90/20px stretch ;
+
+    /* margin: 40px auto; */
+}

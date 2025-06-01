@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    text-align: center;
+}
+.main{
+    display: inline;
+    margin: 10%;
+}
+.card{
+    display: inline-block;
+    width: 23%;
+    height: 150px;
+    background-color: rgb(245, 10, 46);
+    
+}
+
+.card:hover{
+    box-shadow: 10px 10px 10px gray;
+   
+}
+p:hover{
+ color: brown !important;
+ text-shadow: 3px 3px 10px yellow;
+}
+p{
+    text-align: center;
+    color: white;
+  
+}
+
+
+img{
+    width: 20%;
+    margin:5px auto;
+    display: block;
+    border-radius: 20px;
+    height: 200px;
+}

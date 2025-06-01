@@ -1,0 +1,49 @@
+/* ul{
+    display: inline;
+}
+li{
+    display: inline;
+    width: 200px;
+} */
+/* input{
+    display: block;
+    margin-top: 20px;
+ } */
+
+/* inline=>get only text width
+ block=>get 100% width */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+/* p{
+    display:inline-block;
+    width: 40%;
+  }
+  .one{
+    background-color: red;
+  }
+  .two{
+    background-color: pink;
+  } */
+ul {
+  display: inline;
+}
+li {
+  display: inline-block;
+  padding-left: 20px;
+  /* width: 24.5%; */
+}
+
+div {
+  display: inline;
+}
+.logo {
+  display: inline-block;
+  width: 49%;
+}
+.new {
+  display: inline-block;
+  width: 48%;
+  background-color: red;
+}
